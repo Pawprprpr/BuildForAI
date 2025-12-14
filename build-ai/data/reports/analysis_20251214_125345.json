@@ -1,0 +1,7 @@
+{
+  "log_source": "unknown",
+  "analyzed_at": "2025-12-14T12:52:56.737321",
+  "error_summary": "npm依赖下载超时，网络连接问题导致构建失败",
+  "error_type": "network",
+  "confidence": -3.0405761718749997
+}
